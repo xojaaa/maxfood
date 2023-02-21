@@ -17,38 +17,16 @@ function Navs() {
                   </div>
                 </Link>
               </li>
+         
               <li className="nav-item">
-                <Link to="/burger">
-                <div data-bs-toggle="pill" className="nav-link " >
-                  Burger
-                </div>
-                </Link>
-                
-              </li>
-              <li className="nav-item">
-                <Link to="/konbo">
+                <Link to="/pista">
                  <div data-bs-toggle="pill" className="nav-link" >
-                  Kombo
+                  pitsa
                 </div>
                 </Link>
                
               </li>
-              <li className="nav-item">
-                <Link to="/non-kabob">
-                <div data-bs-toggle="pill" className="nav-link" >
-                  Non Kabob
-                </div>
-                </Link>
-                
-              </li>
-              <li className="nav-item">
-                <Link to="/lavash">
-                 <div data-bs-toggle="pill" className="nav-link" >
-                  Lavash
-                </div>
-                </Link>
-               
-              </li>
+           
               <li className="nav-item">
                 <Link to="/sushi">
                  <div data-bs-toggle="pill" className="nav-link" >
