@@ -26,6 +26,7 @@ a{
     height: 40px;
     background: red;
     display: flex;
+    z-index: 12;
     align-items: center;
     font-style: normal;
     font-weight: 800;

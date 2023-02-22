@@ -8,7 +8,7 @@
 body{
     background-image: url('../icon/background-tree-white.jpg');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100% 100%;
 }
 
 .allFoodText{
@@ -28,6 +28,7 @@ body{
     height: 300px;
     margin: 0 auto;
     display: block;
+  
     
     
 }
