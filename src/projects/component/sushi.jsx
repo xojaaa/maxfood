@@ -21,18 +21,18 @@ function Sushi() {
     const barcha = [
        
     
-        {id:27, name: 'filadefla', price: '55 000', img: Foto2, discription: 'lasos baliqlari zogara baliq', qunatitiy: 10, numbers: true},
-        {id:28, name: 'filadefla', price: '55 000', img: Foto3, discription: 'lasos baliqlari zogara baliq', qunatitiy: 10, numbers: true},
-        {id:29, name: 'filadefla', price: '55 000', img: Foto4, discription: 'lasos baliqlari zogara baliq', qunatitiy: 10, numbers: true},
-        {id:30, name: 'filadefla', price: '55 000', img: Foto5, discription: 'lasos baliqlari zogara baliq', qunatitiy: 10, numbers: true},
-        {id:31, name: 'filadefla', price: '55 000', img: Foto6, discription: 'lasos baliqlari zogara baliq', qunatitiy: 10, numbers: true},
-        {id:32, name: 'filadefla', price: '55 000', img: Foto7, discription: 'lasos baliqlari zogara baliq', qunatitiy: 10, numbers: true},
-        {id:33, name: 'filadefla', price: '55 000', img: Foto8, discription: 'lasos baliqlari zogara baliq', qunatitiy: 10, numbers: true},
-        {id:34, name: 'filadefla', price: '55 000', img: Foto9, discription: 'lasos baliqlari zogara baliq', qunatitiy: 10, numbers: true},
-        {id:35, name: 'filadefla', price: '55 000', img: Foto10, discription: 'lasos baliqlari zogara baliq', qunatitiy: 10, numbers: true},
-        {id:36, name: 'filadefla', price: '55 000', img: Foto11, discription: 'lasos baliqlari zogara baliq', qunatitiy: 10, numbers: true},
-        {id:37, name: 'filadefla', price: '55 000', img: Foto12, discription: 'lasos baliqlari zogara baliq', qunatitiy: 10, numbers: true},
-        {id:38, name: 'filadefla', price: '55 000', img: Foto13, discription: 'lasos baliqlari zogara baliq', qunatitiy: 10, numbers: true},
+      {id:27,name: 'Sushi', lastname: 'филаделфия', price: '55 000', img: Foto2, discription: 'лосось, огурец, кримета', qunatitiy: 10, numbers: true},
+      {id:28,name: 'Sushi', lastname: 'сдинамит', price: '45 000', img: Foto3, discription: 'кримета, огурец, крап', qunatitiy: 10, numbers: true},
+      {id:29,name: 'Sushi', lastname: 'дракон', price: '60 000', img: Foto4, discription: 'кримета, тобико, огурец, угорь', qunatitiy: 10, numbers: true},
+      {id:30,name: 'Sushi', lastname: 'калифорния ред', price: '45 000', img: Foto5, discription: 'кримета, огурец, тобико, крап', qunatitiy: 10, numbers: true},
+      {id:31,name: 'Sushi', lastname: 'каппа маки', price: '50 000', img: Foto6, discription: 'кримета, лосось', qunatitiy: 10, numbers: true},
+      {id:32,name: 'Sushi', lastname: 'зби маки', price: '50 000', img: Foto7, discription: 'кримета, угорь, кунжут', qunatitiy: 10, numbers: true},
+      {id:33,name: 'Sushi', lastname: 'Кани хотто', price: '45 000', img: Foto8, discription: 'лосось, кримета', qunatitiy: 10, numbers: true},
+      {id:34,name: 'Sushi', lastname: 'Киотто темпура', price: '60 000', img: Foto9, discription: 'кримета, угорь, лосось, огурец,', qunatitiy: 10, numbers: true},
+      {id:35,name: 'Sushi', lastname: 'Сяки темпура', price: '45 000', img: Foto10, discription: 'кримета, огурец, угорь, кунжут', qunatitiy: 10, numbers: true},
+      {id:36,name: 'Sushi', lastname: 'каки Хотто', price: '45 000', img: Foto11, discription: 'кримета, огурец, лосось', qunatitiy: 10, numbers: true},
+      {id:37,name: 'Sushi', lastname: 'америка темпура', price: '50 000', img: Foto12, discription: 'кримета, жареные лосось, огурец', qunatitiy: 10, numbers: true},
+      {id:38,name: 'Sushi', lastname: 'филаделфия спешл', price: '45 000', img: Foto13, discription: 'кримета, тобико, огурец, угорь', qunatitiy: 10, numbers: true},
       ]
     return ( 
     <>

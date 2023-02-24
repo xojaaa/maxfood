@@ -9,6 +9,7 @@ body{
     background-image: url('../icon/background-tree-white.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
+   
 }
 
 .allFoodText{
@@ -41,7 +42,9 @@ body{
     color:#262626;
     text-transform: uppercase;
 }
-
+.foodName{
+    width: 210px;
+}
 .foodPrice{
     font-size: 20px;
     font-weight: bold;
@@ -49,6 +52,9 @@ body{
     color: #ff0000;
     
   
+}
+.foodDiscription{
+    font-size: 19px;
 }
 
 .food-footer{
@@ -65,11 +71,30 @@ body{
     box-shadow: none;
 }
 
+
+.ok{
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+
 @media(max-width: 576px){
     .allFoodText{
-        font-size: 25px;
+        font-size: 24px;
+    }
+    .nameFood{
+ 
+        font-size: 15px !important;
     }
     .burgerFoto{
-        width: 250px;
+        width: 200px;
+        height: 200px;
     }
+
+    .foodPrice{
+  
+        font-size: 15px;
+    }
+    
+  
 }
